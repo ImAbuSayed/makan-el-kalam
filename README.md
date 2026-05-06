@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/makan-el-kalam/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Makan El Kalam](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Makan El Kalam](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
