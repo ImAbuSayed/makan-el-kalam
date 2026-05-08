@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Makan El Kalam
+
+This log tracks the cryptographic history and versioning for the song **Makan El Kalam** (makan-el-kalam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T05:14:49.761376 | `v1` | `5d0d6fa798b6e1c245f3f8b956b92e85e74d71cac4d9a0ac4717fc21d1e12bdf` | `491aac868210568d66ea4929df5b313fc72b56544fa34953699c776ceba80625` | `2026-05-09_makan-el-kalam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
